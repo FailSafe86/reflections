@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+- a .git folder is created that contains the history of the git repository
+- makes the directory a repository and sets it to the master branch
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+- it is the intermediate between them, acts as a buffer for commits
+- allows you to seperate checkpoints 
