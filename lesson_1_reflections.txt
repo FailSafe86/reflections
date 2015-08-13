@@ -1,0 +1,22 @@
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+- can see changes overtime
+- can see areas of difficulty 
+- can see time taken on sections
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+pros:
+- can make commits relavent checkpoints basesd on workflow
+cons:
+- have to remember to commit
+- lose work if there is a powercut suddenly
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+- multiple file commits allow you to see a snapshot of a project or folder where files are related.
+- single file commits are useful when each file is independant and do not relate to other files.
+
+
+How might using version control make you more confident to make changes that could break something?
+- can always revert to other commit stages
+- narrow down bug areas
