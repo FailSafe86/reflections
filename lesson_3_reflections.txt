@@ -34,4 +34,7 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    - when multiple people are working on a feature
+    - can solve conflicts and work on feature independantly from the main project
+    - problem when trying to merge back into master branch
+    - have to keep up to date with master branch changes
